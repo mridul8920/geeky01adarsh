@@ -6,28 +6,16 @@
 </p>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/adarsh-navneet-sinha-34a36419a/">
+<a href="https://www.linkedin.com/in/mridul-kapoor-b2ba94185/">
   <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/geeky01adarsh">
-  <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>&nbsp;&nbsp;
-<a href="mailto:adarsh91094@gmail.com">
+<a href="mailto:mridulkapoor123456@gmail.com">
   <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/geeky01adarsh/">
-  <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>&nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/geeky01adarsh/practice/">
+<a href="https://auth.geeksforgeeks.org/user/mridulkapoor123456/practice/">
   <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
 </a>&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/geeky01adarsh">
-  <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/geeky01adarsh">
-  <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>&nbsp;&nbsp;
-<a href="https://dev.to/geeky01adarsh">
+<a href="https://dev.to/mridul8920">
   <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />
 </a>
 </p>
@@ -51,7 +39,6 @@
       <tr>
 <td width="250" align='center'>&nbsp;&nbsp;<img alt="C" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />&nbsp;&nbsp;</td>
 <td width="250" align='center'>&nbsp;&nbsp;<img alt="C++" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;</td>
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="Python" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>&nbsp;&nbsp;</td>
       </tr>
       <tr>
 <td width="250" align='center'>&nbsp;&nbsp;<img alt="Java" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />&nbsp;&nbsp;</td>
